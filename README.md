@@ -1,6 +1,6 @@
 # MovieLand App
 
-![Capture](https://github.com/T-adnane/movie_land/assets/115072337/d28b324b-e9a7-4058-848b-20d7df994c2b)
+![Capture](https://github.com/T-adnane/movie_land/assets/115072337/dac85352-5e17-4474-9ec2-eb310b6940fd)
 
 
 La MovieLand App est une application web React simple mais puissante qui vous permet de rechercher des informations sur vos films et séries préférés. Elle se connecte à l'API OMDB (The Open Movie Database) pour obtenir des détails sur une vaste collection de films et de séries. Que vous soyez un cinéphile chevronné ou simplement à la recherche d'informations sur un film en particulier, la MovieLand App est là pour vous aider.
